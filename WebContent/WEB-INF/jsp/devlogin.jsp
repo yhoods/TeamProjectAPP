@@ -50,7 +50,7 @@
 
               <div class="separator">
                 <div>
-                  <p>©2016 All Rights Reserved. </p>
+                  <p>©实训课. </p>
                 </div>
               </div>
             </form>
